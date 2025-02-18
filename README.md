@@ -176,7 +176,6 @@ The MERN Marketplace application will allow users to become sellers, who can man
 
 ## 📹 Video Demo
 
-- Video Size is high So, I can not upload it to Github.I upload it to youtube.[Vedo Demo heaar](https://www.youtube.com/watch?v=J7PWBRnEIv8)
 
 ## Sneak Peek of Home Page 🙈 :
 ![home](https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/14dfa843-e495-4fd7-bffe-b10b7a65cfc9)
@@ -535,9 +534,7 @@ PORT = 4000
 - `yarn start`
 
 
-## YouTub :- [I Learn from this ](https://www.youtube.com/watch?v=XxnUSZOgMLY&list=PLyah27R0n8V4Kcao94Qlt-xJ0bHxZfBjk "click to open")
 
-🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
 
 <p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
 <br/>
